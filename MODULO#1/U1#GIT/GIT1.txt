@@ -1,2 +1,7 @@
-PURO CEPE ALV
-texto 1 lista de prueba
+Lista de Compras:
+-Paltas
+-Manzanas
+-Naranjas
+-Ananas
+-Mandarinas
+-Uvas
